@@ -42,3 +42,11 @@ body {
     text-align: center;
   }
 
+  img {
+      max-width: 100%;
+  }
+
+  .disable {
+    pointer-events: none;
+    cursor: default;
+  }
